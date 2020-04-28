@@ -1,0 +1,92 @@
+01Real Madrid 	,Esp       162.000	
+02Atletico Madrid Esp	140.000	
+03Bayern Munchen Ger     135.000	
+04FC Barcelona Esp	132.000	
+05Juventus It      126.000	
+06Sevilla Esp	113.000	
+07Paris Fra	109.000	
+08Manchester City Eng	100.000	
+09Arsenal Eng     93.000	
+10Dortmund Ger	89.000	
+11FC Porto Por	86.000	
+12Manchester U Eng     82.000	
+13Chelsea Eng	82.000	
+14ShakhtarDonetsk Ukr	81.000	
+15Benfica Por	80.000	
+16Zenit St. P Rus	78.000	
+17Napoli It	78.000	
+18FC Basel Sui	71.000	
+19Tottenham Eng	67.000	
+20Leverkusen Ger	66.000	
+21AS Roma Ita     64.000	
+22Liverpool Eng	62.000	
+23Dinamo Kiev Ukr	62.000	
+24Schalke 04 Ger	62.000	
+25Olympique Lyon Fra	59.500	
+26Besiktas Tur	57.000	
+27AS Monaco Fra     57.000	
+28FC Salzburg Aut	55.500	
+29Olympiakos  Gre	54.000	
+30Fiorentina Ita	54.000	
+31Ajax Ned	53.500	
+32Villarreal Esp     52.000	
+33Anderlecht Bel	48.000	
+34Athletic Bilbao Esp     46.000	
+35CSKA Moscow Rus	45.000
+36Lazio Ita     41.000	
+37Sporting Lisbon	Por	40.000	
+38VfL Wolfsburg	Ger     40.000	
+39Ludogorets 	Bul	37.000	
+40PSV Eindhoven	Ned	36.000	
+41Valencia	Esp	36.000	
+42Sparta Praha	Cze	34.500	
+43FC Kobenhavn	Den	34.000	
+44Dnipro 	        Ukr	34.000	
+45Viktoria Plzen	Cze	33.000	
+46Marseille	Fra	32.000	
+47Celtic	        Sco	31.000	
+48Sporting Braga	Por     30.500	
+49PAOK 	        Gre	29.500	
+50Club Brugge	Bel     29.500
+51Galatasaray	Tur	29.500	
+52Monchengladbach	Ge      29.000	
+53AC Milan	Ita     28.000	
+54FCSB	        Rom	27.500	
+55APOEL Nicosia	Cyp	27.000	
+56AA Gent	        Bel     27.000	
+57Racing Genk	Bel	27.000	
+58AZ Alkmaar	Ned	25.000	
+59Legia Warsaw	Pol	24.500	
+60Saint-Etienne	Fra	24.500	
+61Fenerbahce	Tur     23.500	
+62FK Krasnodar	Rus     23.500	
+63LokomotivMoscow	Rus     22.500	
+64NK Maribor	Slo	22.500	
+65MaccabiTel-Aviv	Isr	22.500	
+66Leicester City	Eng     22.000	
+67FK Astana	Kaz	21.750	
+68Feyenoord	Ned	21.500	
+69Rapid Wien	Aut	21.500	
+70Real Sociedad	Esp	18.500			
+71Garabag Agdam	Azb	20.500	
+72Young Boys	Sui	20.500	
+73BATE Borisov	Bls	20.000		
+74Trabzonspor	Tur	18.000	
+75Dinamo Zagreb	Cro	17.500	
+76RB Leipzig	Ger     17.000	
+77Partizan 	Srb	17.000	
+78Everton	        Eng	17.000	
+79Slovan Liberec	Cze	17.000	
+80Austria Wien	Aut	16.000	
+81Internazionale	Ita	16.000	
+82Rubin Kazan	Rus	16.000	
+83Dinamo Moscow	Rus     16.000	
+84West Ham United	Eng	15.500	
+85NK Rijeka	Cro	15.500	
+86Atalanta	Ita	15.000	
+87SheriffTiraspol	Mol	14.750	
+88Hertha BSC	Ger	14.500	
+89Hoffenheim	Ger	14.000	
+90Malmo           Swe     12.000
+91Red Star        Srb     11.500
+92AEK Athens      Gre     10.000

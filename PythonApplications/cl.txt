@@ -1,0 +1,74 @@
+ 1		Real Madrid	,	Esp	,	162.000
+ 2		Atletico Madrid	,	Esp	,	140.000
+ 3		Bayern Munchen	,	Ger	,	135.000
+ 4		FC Barcelona	,	Esp	,	132.000
+ 5		Juventus	,	Ita	,	126.000
+ 6		Sevilla	,	Esp	,	113.000
+ 7		Paris S.G	,	Fra	,	109.000
+ 8		Man City	,	Eng	,	100.000
+ 9		Arsenal	,	Eng	,	93.0000
+10		Dortmund	,	Ger	,	89.0000
+11		FC Porto	,	Por	,	86.0000
+12		Manc United	,	Eng	,	82.0000
+13		Chelsea	,	Eng	,	82.0000
+14		Shakhtar 	,	Ukr	,	81.0000
+15		Benfica	,	Por	,	80.0000
+16		Zenit 	,	Rus	,	78.0000
+17		Napoli	,	Ita	,	78.0000
+18		FC Basel	,	Sui	,	71.0000
+19		Tottenham 	,	Eng	,	67.0000
+20		Leverkusen	,	Ger	,	66.0000
+21		AS Roma	,	Ita	,	64.000
+22		Liverpool	,	Eng	,	62.0000
+23		Dinamo Kiev	,	Ukr	,	62.0000
+24		Schalke 04	,	Ger	,	62.0000
+25		Olympique Lyon	,	Fra	,	59.5000
+26		Besiktas	,	Tur	,	57.0000
+27		AS Monaco	,	Fra	,	57.0000
+28		FC Salzburg	,	Aut	,	55.5000
+29		Olympiakos 	,	Gre	,	54.0000
+30		Fiorentina	,	Ita	,	54.0000
+31		Ajax	,	Ned	,	53.5000
+32		Villarreal	,	Esp	,	52.0000
+33		Anderlecht	,	Bel	,	48.0000
+34		Athletic Bilbao	,	Esp	,	46.0000
+35		CSKA Moscow	,	Rus	,	45.0000
+36		Lazio	,	Ita	,	41.0000
+37		Sporting Lisbon	,	Por	,	40.0000
+38		VfL Wolfsburg	,	Ger	,	40.0000
+39		Ludogorets 	,	Bul	,	37.0000
+40		PSV Eindhoven	,	Ned	,	36.0000
+41		Valencia	,	Esp	,	36.0000
+42		Sparta Praha	,	Cze	,	34.5000
+43		FC Kobenhavn	,	Den	,	34.0000
+44		Dnipro	,	Ukr	,	34.0000
+45		Viktoria Plzen	,	Cze	,	33.0000
+46		Marseille	,	Fra	,	32.0000
+47		Celtic	,	Sco	,	31.0000
+48		Sporting Braga	,	Por	,	30.5000
+49		PAOK 	,	Gre	,	29.5000
+50		Club Brugge	,	Bel	,	29.5000
+51		Galatasaray	,	Tur	,	29.5000
+52		AC Milan	,	Ita	,	28.0000
+53		FCSB	,	Rom	,	27.5000
+54		APOEL Nicosia	,	Cyp	,	27.0000
+55		Legia Warsaw	,	Pol	,	24.5000
+56		Fenerbahce	,	Tur	,	23.5000
+57		FK Krasnodar	,	Rus	,	23.5000
+58		Lokomotiv Moscow	,	Rus	,	22.5000
+59		NK Maribor	,	Slo	,	22.5000
+60		Maccabi Tel-Aviv	,	Isr	,	22.5000
+61		FK Astana	,	Kaz	,	21.7500
+62		Garabag Agdam	,	Azb	,	20.5000
+63		Young Boys	,	Sui	,	20.5000
+64		BATE Borisov	,	Bls	,	20.5000
+65		Dinamo Zagreb	,	Cro	,	17.5000
+66		RB Leipzig	,	Ger	,	17.0000
+67		Internazionale	,	Ita	,	16.0000
+68		Dinamo Moscow	,	Rus	,	16.0000
+69		1899 Hoffenheim	,	Ger	,	14.5000
+70		Malmo FF	,	Swe	,	14.0000
+71		Spartak Moscow	,	Rus	,	13.5000
+72		FK Rostov	,	Rus	,	13.5000
+73		Standard Liege	,	Bel	,	12.5000
+74		AEK Athens	,	Gre	,	10.0000
